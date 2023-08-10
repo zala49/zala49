@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitesh Zala</h1>
-<h3 align="center">Full Stack Developer | Node JS | React JS</h3>
+<h3 align="center">Greetings! I am a experienced Full Stack Developer with over 1.8 years of working experience specializing in Node.js and React.js</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/zala49](https://github.com/zala49)
 
