@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hitesh Zala</h1>
-<h3 align="center">Greetings! I am a experienced Backend Developer with over 2 years of working experience specializing in Node.js, Python and React.js</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/zala49](https://github.com/zala49)
 
